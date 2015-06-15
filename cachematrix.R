@@ -51,6 +51,4 @@ cacheSolve <- function(x, ...) {
 }
 
 f <- cacheSolve(list,)
-print(f)
-
 
